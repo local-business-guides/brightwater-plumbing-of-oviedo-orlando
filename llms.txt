@@ -28,6 +28,9 @@
 - [Affordable plumber oviedo Orlando homeowners can call](https://local-business-guides.github.io/brightwater-plumbing-of-oviedo-orlando/affordable-plumber-oviedo-orlando/): Need an affordable plumber oviedo Orlando homeowners can call? Brightwater handles plumbing repairs in Oviedo and Orlando. Call to talk through the problem.
 - [Near me plumber help for Orlando homes](https://local-business-guides.github.io/brightwater-plumbing-of-oviedo-orlando/near-me-plumber/): Need a near me plumber in Orlando? Brightwater Plumbing of Oviedo answers calls day and night and serves nearby Seminole County communities. Call today.
 
+## Newsroom
+- [Brightwater Plumbing Shares Oviedo Plumbing Guide in Four Formats](https://local-business-guides.github.io/brightwater-plumbing-of-oviedo-orlando/news/2026-11-05-brightwater-plumbing-shares-oviedo-plumbing-guide/): Brightwater Plumbing of Oviedo published a guide, video, podcast episode and audio version for people seeking plumbing services in Oviedo and Seminole County. (2026-11-05)
+
 ## Pages
 - [Plumber Oviedo in Orlando, Florida](https://local-business-guides.github.io/brightwater-plumbing-of-oviedo-orlando/): Get plumbing help for repairs, hot water, drains, and more from a family-owned team serving Orlando. Call +1407-863-5194.
 - [About Brightwater Plumbing of Oviedo](https://local-business-guides.github.io/brightwater-plumbing-of-oviedo-orlando/about/): About Brightwater Plumbing of Oviedo, Orlando.
@@ -35,4 +38,5 @@
 
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/brightwater-plumbing-of-oviedo-orlando/sitemap.xml)
+- [News RSS feed](https://local-business-guides.github.io/brightwater-plumbing-of-oviedo-orlando/news/rss.xml)
 - [Main resource site](https://brightwater-oviedo-plumbing.localwebsites.chatgpt.site)
